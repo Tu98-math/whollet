@@ -6,6 +6,31 @@
   </li>  
 </ul>
 <hr>
+<h3> Test Account: </h3>
+<ul>
+  <li> 
+    anhtu.cute.0902@gmail.com
+  </li>
+  <li> 
+    Pass Admin123
+  </li>
+  <li> 
+    PIN 1234
+  </li>
+  <li> 
+    19522456@gm.uit.edu.vn
+  </li>
+  <li> 
+    Pass Admin123
+  </li>
+  <li> 
+    PIN 1234
+  </li>
+</ul>
+<hr>
+<h3> ICON ($ICX) Testnet Faucet: </h3>
+<a href="https://faucet.sharpn.tech/"> Link </a>
+<hr>
 <h3> Screens it contains: </h3>
 <ul>
   <li> 
@@ -33,5 +58,3 @@
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-2.png">
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-3.png">
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-4.png">
-<img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-5.png">
-<img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-6.png">
