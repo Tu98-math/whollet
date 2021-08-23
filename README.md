@@ -2,34 +2,34 @@
 <br>
 <h3> Packages I am using </h3>
 <ul>
-  <li> flutter icon network : <a href="https://pub.dev/packages/flutter_icon_network?fbclid=IwAR17Vkh3aFkZeZcGrQ7Y5G5UGkokJG4kZtE9bImUjKwlr2RZMdoapP8SUHc"> Link </a>
+  <li> flutter icon network : <a href="https://pub.dev/packages/flutter_icon_network?fbclid=IwAR17Vkh3aFkZeZcGrQ7Y5G5UGkokJG4kZtE9bImUjKwlr2RZMdoapP8SUHc" target="_blank"> Link </a>
   </li>  
 </ul>
 <hr>
 <h3> Test Account: </h3>
 <ul>
   <li> 
-    anhtu.cute.0902@gmail.com
+    Email: anhtu.cute.0902@gmail.com
   </li>
   <li> 
-    Pass Admin123
+    Pass: Admin123
   </li>
   <li> 
-    PIN 1234
+    PIN: 1234
   </li>
   <li> 
-    19522456@gm.uit.edu.vn
+    Email: 19522456@gm.uit.edu.vn
   </li>
   <li> 
-    Pass Admin123
+    Pass: Admin123
   </li>
   <li> 
-    PIN 1234
+    PIN: 1234
   </li>
 </ul>
 <hr>
 <h3> ICON ($ICX) Testnet Faucet: </h3>
-<a href="https://faucet.sharpn.tech/"> Link </a>
+<a href="https://faucet.sharpn.tech/" target="_blank"> Link </a>
 <hr>
 <h3> Screens it contains: </h3>
 <ul>
