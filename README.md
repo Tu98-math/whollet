@@ -58,3 +58,5 @@
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-2.png">
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-3.png">
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-4.png">
+<img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-5.png">
+<img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-6.png">
