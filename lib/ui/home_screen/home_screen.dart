@@ -11,6 +11,7 @@ import 'package:whollet/constants/app_colors.dart';
 import 'package:whollet/routing/routes.dart';
 import 'package:whollet/widgets/default_button.dart';
 import 'components/custom_user_info.dart';
+import 'components/double_text.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -218,11 +219,11 @@ Future<void> _showTransferDialog(
         content: SingleChildScrollView(
           child: ListBody(
             children: <Widget>[
-              buildDoubleText(title: 'Time', content: formattedDate),
-              buildDoubleText(title: 'Total amount', content: values),
-              buildDoubleText(title: 'Transaction ID', content: idTransaction),
-              buildDoubleText(title: 'From', content: from),
-              buildDoubleText(title: 'To', content: to),
+              DoubleText(title: 'Time', content: formattedDate),
+              DoubleText(title: 'Total amount', content: values),
+              DoubleText(title: 'Transaction ID', content: idTransaction),
+              DoubleText(title: 'From', content: from),
+              DoubleText(title: 'To', content: to),
               SizedBox(height: 20),
               Padding(
                 padding: const EdgeInsets.all(10.0),
@@ -239,48 +240,5 @@ Future<void> _showTransferDialog(
         ),
       );
     },
-  );
-}
-
-Column buildDoubleText({
-  required String title,
-  required String content,
-}) {
-  return Column(
-    mainAxisAlignment: MainAxisAlignment.start,
-    crossAxisAlignment: CrossAxisAlignment.start,
-    children: [
-      Row(
-        children: [
-          Text(
-            title,
-            style: TextStyle(
-              fontSize: 14,
-              color: AppColors.kTextLightColor,
-            ),
-          ),
-          Spacer(),
-          IconButton(
-            onPressed: () {
-              Clipboard.setData(ClipboardData(text: content));
-            },
-            icon: Icon(
-              Icons.copy,
-              size: 20,
-            ),
-          ),
-        ],
-      ),
-      Text(
-        content,
-        style: TextStyle(
-          fontSize: 16,
-          fontWeight: FontWeight.bold,
-        ),
-      ),
-      SizedBox(
-        height: 5,
-      )
-    ],
   );
 }
