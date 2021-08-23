@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "206405268160",
-    "project_id": "whollet-a7c4c",
-    "storage_bucket": "whollet-a7c4c.appspot.com"
+    "project_number": "909820300806",
+    "project_id": "whollet-3a642",
+    "storage_bucket": "whollet-3a642.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:206405268160:android:42287e5a6b343ca33cb325",
+        "mobilesdk_app_id": "1:909820300806:android:337a6d9092160ece5ebd87",
         "android_client_info": {
           "package_name": "com.example.whollet"
         }
       },
       "oauth_client": [
         {
-          "client_id": "206405268160-t8ae19eveqi78kv5ou9m7qm2a6p17tnn.apps.googleusercontent.com",
+          "client_id": "909820300806-nnhou41gpvmag7568bld7vl21ebgrlga.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD1QA1VbZlFKST1PwwpQHahG9cvxYo81Fg"
+          "current_key": "AIzaSyDcubfL-zaexhnrvcfjQyRMBTkazJWsbIs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "206405268160-t8ae19eveqi78kv5ou9m7qm2a6p17tnn.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:206405268160:android:c14f7475561288e43cb325",
-        "android_client_info": {
-          "package_name": "vn.devera.languages"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "206405268160-t8ae19eveqi78kv5ou9m7qm2a6p17tnn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyD1QA1VbZlFKST1PwwpQHahG9cvxYo81Fg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "206405268160-t8ae19eveqi78kv5ou9m7qm2a6p17tnn.apps.googleusercontent.com",
+              "client_id": "909820300806-nnhou41gpvmag7568bld7vl21ebgrlga.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
