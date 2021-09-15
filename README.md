@@ -53,7 +53,7 @@
   </li>
 </ul>
 <h3> APK file </h3>
-<a href="https://drive.google.com/file/d/1gVBrgO6W_m9_IeZgesmwWKF_-3pgJymb/view?usp=sharing" target="_blank"> Link </a>
+<a href="https://drive.google.com/file/d/13WLpFOmkmNCBOu2HpSedfrB-8SUf8WiH/view?usp=sharing" target="_blank"> Link </a>
 <hr>
 <h3> Photos </h3>
 <img src="https://raw.githubusercontent.com/Tu98-math/whollet/main/EP-1.png">
